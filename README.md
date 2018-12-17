@@ -25,7 +25,7 @@ style里面支持的属性
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/br.jpg)  | row 1 col 2
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/br.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/br.png) 
 
 - p标签 支持style（上面的style都支持）
 ```
@@ -35,7 +35,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/p.jpg)  | row 1 col 2
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/p.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/p.png) 
 
 - ul标签 支持style（上面的style都支持）
 - li标签 支持style（上面的style都支持）
@@ -59,7 +59,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/a.jpg)  | row 1 col 2
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/a.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/a.png) 
 
 - u标签
 - del标签
@@ -74,7 +74,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/a.jpg)  | row 1 col 2
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/h1_h6.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/h1_h6.png) 
 
 - img标签 支持width height
 ```
@@ -83,7 +83,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/img.jpg)  | row 1 col 2
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/img.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/img.png) 
 
 - code标签
 - pre标签 换行
