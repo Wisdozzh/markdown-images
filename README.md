@@ -20,17 +20,23 @@ style里面支持的属性
 - br标签
 
 ```
-
+你好<br/>我是br标签
 ```
 
 Android | iOS
 ---|---
-row 1 col 1 | row 1 col 2
-row 2 col 1 | row 2 col 2
-
-
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/br.jpg)  | row 1 col 2
 
 - p标签 支持style（上面的style都支持）
+```
+<p>这是一个段落。</p>
+<p>这是另外一个段落。</p>
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/p.jpg)  | row 1 col 2
+
 - ul标签 支持style（上面的style都支持）
 - li标签 支持style（上面的style都支持）
 - div标签 支持style（上面的style都支持）
@@ -47,6 +53,14 @@ row 2 col 1 | row 2 col 2
 - blockquote标签 支持style（text-align、text-indent）
 - t标签
 - a标签
+```
+<a href="http://www.w3cschool.cn">这是一个链接</a>
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/a.jpg)  | row 1 col 2
+
 - u标签
 - del标签
 - s标签
@@ -54,11 +68,27 @@ row 2 col 1 | row 2 col 2
 - sup标签
 - sub标签
 - h1-h6标签 支持style（text-align、text-indent）
+```
+<h1>这是一个h1标题</h1><h2>这是一个h2标题</h2><h3>这是一个h3标题</h3><h4>这是一个h4标题</h4><h5>这是一个h5标题</h5><h6>这是一个h6标题</h6>
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/a.jpg)  | row 1 col 2
+
 - img标签 支持width height
+```
+<img src="https://desk-fd.zol-img.com.cn/t_s640x530c5/g5/M00/02/05/ChMkJlbKyaGIGGNjABT85XemdQ8AALIQQI-6pcAFPz9490.jpg" width="104" height="142">
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/img.jpg)  | row 1 col 2
+
 - code标签
 - pre标签 换行
 - test标签 支持style（text-align、text-indent）
-- 整体的例子
+- 整体的例子1
 
 ```
 <span style="font-size:18px">微信支付凭证</span><br/>
@@ -74,6 +104,7 @@ row 2 col 1 | row 2 col 2
 Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/demo1.jpg) | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/demo1.png)
-row 2 col 1 | row 2 col 2
+
+
 
 
