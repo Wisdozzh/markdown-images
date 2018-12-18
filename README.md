@@ -9,7 +9,7 @@ iOS使用的是 github上 Cocoanetics/DTCoreText（5.6k stars）
 ### 值支持的所有的CSS
 style里面支持的属性
 - text-align(left right center)
-- color
+- color （Android 不支持red、green、black等预定好的颜色）
 - background
 - text-decoration
 - text-indent
