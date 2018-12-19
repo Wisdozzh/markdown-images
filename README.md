@@ -85,14 +85,6 @@ Android | iOS
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/b.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/b.png) 
 
 - em标签
-```
-<b style="color:#ff0000; font-size:20px; background-color:#00FF00; text-decoration:line-through">加粗文本b标签</b>非加粗文本
-```
-
-Android | iOS
----|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/b.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/b.png) 
-
 - cite标签
 - dfn标签
 - i标签 支持style(color、background、text-decoration、font-size)
