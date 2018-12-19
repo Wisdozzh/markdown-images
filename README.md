@@ -27,7 +27,7 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/br.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/br.png) 
 
-- p标签 支持style（上面的style都支持 并测试了color和font-size两个 CSS属性）
+- p标签 支持style（支持CSS属性：color、font-size、text-align、background-color、text-decoration、text-indent）
 ```
 <p style=\"color:#ff0000; font-size:20px; text-align:right; background-color:#00FF00; text-decoration:line-through\">这是一个段落。</p><p>这是另外一个段落。</p><p style=\"text-indent:50px\">这是另外一个段落。</p>
 ```
