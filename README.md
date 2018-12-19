@@ -38,6 +38,15 @@ Android | iOS
 
 - ul标签 支持style（上面的style都支持）
 - li标签 支持style（上面的style都支持）
+
+```
+"<ul><li style=\"font-size:20px\">Coffee</li><li>Milk</li></ul> <ol><li>Coffee</li><li>Milk</li></ol> "
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/ul_ol_li.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/ul_ol_li.png) 
+
 - div标签 支持style（上面的style都支持）
 - span标签 支持style(color、background、text-decoration、font-size)
 - strong标签
