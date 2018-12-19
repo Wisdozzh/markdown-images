@@ -47,7 +47,16 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/ul_ol_li.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/ul_ol_li.png) 
 
-- div标签 支持style（上面的style都支持）
+- div标签 支持style（支持CSS属性：color、font-size、text-align、background-color）
+
+```
+<div style="color:#ff0000; font-size:20px; background-color:#00FF00"><h3>这是一个在div元素中的标题</h3><p>这是一个在div元素中的文本</p></div><div style="color:#00ff00; font-size:20px; text-align:right; background-color:#FF0000">这是一个在div元素</div>
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/div.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/div.png) 
+
 - span标签 支持style(color、background、text-decoration、font-size)
 - strong标签
 - b标签
