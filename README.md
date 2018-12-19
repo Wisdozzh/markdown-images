@@ -58,6 +58,14 @@ Android | iOS
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/div.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/div.png) 
 
 - span标签 支持style(color、background、text-decoration、font-size)
+```
+<span style="color:#ff0000; font-size:20px; background-color:#00FF00; text-decoration:line-through">强调文本</span>非强调文本
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/span.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/span.png) 
+
 - strong标签
 - b标签
 - em标签
