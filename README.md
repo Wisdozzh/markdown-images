@@ -8,12 +8,12 @@ iOS使用的是 github上 Cocoanetics/DTCoreText（5.6k stars）
 
 ### 值支持的所有的CSS
 style里面支持的属性
-- text-align(left right center)
-- color （Android 不支持red、green、black等预定好的颜色）
-- background
-- text-decoration
-- text-indent
-- font-size
+- text-align(支持 left center right)
+- color （支持 #ff0000）
+- background（支持 #ff0000）
+- text-decoration（支持 line-through 删除线）
+- text-indent（缩进 例如：50px）
+- font-size（例如：20px）
 
 ### 支持的HTML标签
 
@@ -29,7 +29,7 @@ Android | iOS
 
 - p标签 支持style（上面的style都支持 并测试了color和font-size两个 CSS属性）
 ```
-<p style=\"color:#000000; font-size:20px;\">这是一个段落。</p><p>这是另外一个段落。</p>
+<p style=\"color:#ff0000; font-size:20px; text-align:right; background-color:#00FF00; text-decoration:line-through\">这是一个段落。</p><p>这是另外一个段落。</p><p style=\"text-indent:50px\">这是另外一个段落。</p>
 ```
 
 Android | iOS
