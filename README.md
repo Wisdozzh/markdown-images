@@ -106,7 +106,7 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/small.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/small.png) 
 
-- font标签 支持color、face
+- font标签 支持color、face(HTML5 不支持 <font> 标签。请用 CSS 代替。在 HTML 4.01 中，<font> 元素已废弃。)
 - blockquote标签 支持style（text-align、text-indent）
 - t标签
 - a标签 支持style(background、text-decoration、font-size)
