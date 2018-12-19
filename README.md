@@ -109,9 +109,9 @@ Android | iOS
 - font标签 支持color、face
 - blockquote标签 支持style（text-align、text-indent）
 - t标签
-- a标签
+- a标签 支持style(background、text-decoration、font-size)
 ```
-<a href="http://www.w3cschool.cn">这是一个链接</a>
+<a style="color:#ff0000; background-color:#00FF00; font-size:20px; text-decoration:line-through" href="http://www.w3cschool.cn">这是一个链接</a>
 ```
 
 Android | iOS
