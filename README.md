@@ -7,7 +7,7 @@ iOS使用的是 github上 Cocoanetics/DTCoreText（5.6k stars）
 链接地址：https://github.com/Cocoanetics/DTCoreText
 
 ### 值支持的所有的CSS
-style里面支持的属性
+style里面支持的属性参照
 - text-align(支持 left center right)
 - color （支持 #ff0000）
 - background（支持 #ff0000）
@@ -36,11 +36,11 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/p.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/p.png) 
 
-- ul标签 支持style（上面的style都支持）
-- li标签 支持style（上面的style都支持）
+- ul标签 支持style
+- li标签 支持style（支持CSS属性：color、font-size、text-align、background-color、text-decoration）
 
 ```
-"<ul><li style=\"font-size:20px\">Coffee</li><li>Milk</li></ul> <ol><li>Coffee</li><li>Milk</li></ol> "
+<ul><li style=\"color:#ff0000; font-size:20px; text-align:right; background-color:#00FF00; text-decoration:line-through\">Coffee</li  style=\"text-indent:50px\"><li>Milk</li></ul> <ol><li>Coffee</li><li>Milk</li></ol> 
 ```
 
 Android | iOS
