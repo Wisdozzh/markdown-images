@@ -124,7 +124,7 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/blockquote.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/blockquote.png) 
 
-- t标签
+- tt标签(**HTML5 不支持**)
 - a标签 支持style(background、text-decoration、font-size)
 ```
 <a style="color:#ff0000; background-color:#00FF00; font-size:20px; text-decoration:line-through" href="http://www.w3cschool.cn">这是一个链接</a>
