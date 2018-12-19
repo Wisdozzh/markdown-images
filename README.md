@@ -144,6 +144,14 @@ Android | iOS
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/u.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/u.png) 
 
 - del标签
+```
+<p>My <del>favorite color is blue</del></p>
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/del.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/del.png) 
+
 - s标签
 - strike标签
 - sup标签
