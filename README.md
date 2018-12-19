@@ -36,7 +36,7 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/p.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/p.png) 
 
-- ul标签 支持style
+- ul标签 支持style(由于Android不支持 ol iOS支持 所以就没有写)
 - li标签 支持style（支持CSS属性：color、font-size、text-align、background-color、text-decoration）
 
 ```
