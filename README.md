@@ -106,7 +106,15 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/small.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/small.png) 
 
-- font标签 支持color、face(HTML5 不支持 <font> 标签。请用 CSS 代替。在 HTML 4.01 中，<font> 元素已废弃。)
+- font标签 支持(color、face)(**HTML5 不支持 <font> 标签。请用 CSS 代替。在 HTML 4.01 中，<font> 元素已废弃**)
+```
+<font size=\"3\" color=\"#FF0000\">这是一些文本！</font> <font size=\"2\" color=\"#0000FF\">这是一些文本！</font> <font face=\"verdana\" color=\"#00FF00\">这是一些文本！</font>
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/font.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/font.png) 
+
 - blockquote标签 支持style（text-align、text-indent）
 - t标签
 - a标签 支持style(background、text-decoration、font-size)
