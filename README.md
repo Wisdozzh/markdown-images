@@ -97,7 +97,15 @@ Android | iOS
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/i.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/i.png) 
 
 - big标签
-- small标签
+- small标签 支持style(color、background、text-decoration、font-size)
+```
+<small style="color:#ff0000; background-color:#00FF00; text-decoration:line-through">这个文本比较小</small>这个文本比较小
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/small.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/small.png) 
+
 - font标签 支持color、face
 - blockquote标签 支持style（text-align、text-indent）
 - t标签
