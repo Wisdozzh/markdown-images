@@ -156,7 +156,7 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/s.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/s.png) 
 
-- strike标签(**HTML <strike> 标签 - HTML5 不支持**)
+- strike标签(**HTML strike 标签 - HTML5 不支持**)
 ```
 <p>Version 2.0 is <strike>not yet available!</strike> now available!</p>
 ```
