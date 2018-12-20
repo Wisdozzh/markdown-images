@@ -153,6 +153,14 @@ Android | iOS
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/del.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/del.png) 
 
 - s标签
+```
+<p><s>我的车是蓝色的。</s></p><p>我的新车是银色的。</p>
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/s.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/s.png) 
+
 - strike标签
 - sup标签
 - sub标签
