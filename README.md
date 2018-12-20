@@ -162,6 +162,14 @@ Android | iOS
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/s.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/s.png) 
 
 - strike标签
+```
+<p>Version 2.0 is <strike>not yet available!</strike> now available!</p>
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/strike.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/strike.png) 
+
 - sup标签
 - sub标签
 - h1-h6标签 支持style（text-align、text-indent）
