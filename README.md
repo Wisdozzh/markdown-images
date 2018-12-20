@@ -84,9 +84,6 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/b.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/b.png) 
 
-- em标签
-- cite标签
-- dfn标签
 - i标签 支持style(color、background、text-decoration、font-size)
 ```
 <p>He named his car <i>The lightning</i>, The lightning because it<i  style=\"color:#ff0000; font-size:20px; background-color:#00FF00; text-decoration:line-through\"> was very fast</i>.</p>
@@ -96,7 +93,6 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/i.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/i.png) 
 
-- big标签
 - small标签 支持style(color、background、text-decoration、font-size)
 ```
 <small style="color:#ff0000; background-color:#00FF00; text-decoration:line-through">这个文本比较小</small>这个文本比较小
@@ -124,7 +120,6 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/blockquote.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/blockquote.png) 
 
-- tt标签(**HTML5 不支持**)
 - a标签 支持style(background、text-decoration、font-size)
 ```
 <a style="color:#ff0000; background-color:#00FF00; font-size:20px; text-decoration:line-through" href="http://www.w3cschool.cn">这是一个链接</a>
@@ -207,8 +202,6 @@ Android | iOS
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/img.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/img.png) 
 
 - code标签
-- pre标签 换行
-- test标签 支持style（text-align、text-indent）
 - 整体的例子1
 
 ```
