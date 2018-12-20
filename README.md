@@ -161,7 +161,7 @@ Android | iOS
 ---|---
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/s.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/s.png) 
 
-- strike标签
+- strike标签(**HTML <strike> 标签 - HTML5 不支持**)
 ```
 <p>Version 2.0 is <strike>not yet available!</strike> now available!</p>
 ```
@@ -171,7 +171,23 @@ Android | iOS
 ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/strike.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/strike.png) 
 
 - sup标签
+```
+<p>This text contains <sup>superscript</sup> text.</p>
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/sup.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/sup.png) 
+
 - sub标签
+```
+<p>This text contains <sub>subscript</sub> text.</p>
+```
+
+Android | iOS
+---|---
+![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/sub.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/sub.png) 
+
 - h1-h6标签 支持style（text-align、text-indent）
 ```
 <h1>这是一个h1标题</h1><h2>这是一个h2标题</h2><h3>这是一个h3标题</h3><h4>这是一个h4标题</h4><h5>这是一个h5标题</h5><h6>这是一个h6标题</h6>
